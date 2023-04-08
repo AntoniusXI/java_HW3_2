@@ -3,6 +3,6 @@ public class Main {
         BmiService service = new BmiService();
 
         int bmi = service.calculate(71, 1.89);
-        System.out.println(bmi+" index");
+        System.out.println(bmi + " index");
     }
 }
